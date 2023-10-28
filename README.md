@@ -12,3 +12,9 @@ Data is obtained from OpenWeather.
 - An OpenWeather API Key is required
 
 [OpenWeather API](https://openweathermap.org/api)
+
+- Run http-server with the command:
+
+```
+npx http-server
+```
